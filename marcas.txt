@@ -1,0 +1,6 @@
+HP
+Windows
+Linux
+Android
+IOS
+Mac
